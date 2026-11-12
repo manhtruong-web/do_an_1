@@ -1,0 +1,15 @@
+fastapi>=0.115,<1
+uvicorn[standard]>=0.30,<1
+python-multipart>=0.0.9,<1
+pydantic-settings>=2.6,<3
+sqlalchemy>=2.0,<3
+pyodbc>=5.1,<6
+google-genai>=1.30,<2
+torch>=2.2,<3
+torchvision>=0.17,<1
+faiss-cpu>=1.8,<2
+open-clip-torch>=2.26,<3
+Pillow>=10,<12
+numpy>=1.26,<3
+pandas>=2.2,<3
+python-dotenv>=1.0,<2

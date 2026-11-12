@@ -1,0 +1,20 @@
+{
+  "generated_at_utc": "2026-11-10T14:59:48.225769+00:00",
+  "source_database": "SmartMartAI",
+  "source_tables": [
+    "dbo.SanPham",
+    "dbo.DanhMuc"
+  ],
+  "product_count": 200,
+  "category_count": 10,
+  "duplicate_product_ids": 0,
+  "missing_fields": {
+    "dac_diem_noi_bat": 200,
+    "thanh_phan": 200,
+    "cong_dung": 200,
+    "huong_dan_su_dung": 200,
+    "doi_tuong_su_dung": 200,
+    "cach_bao_quan": 200
+  },
+  "grounding_policy": "Không suy diễn trường không có trong SQL Server."
+}

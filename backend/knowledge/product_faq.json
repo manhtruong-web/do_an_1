@@ -1,0 +1,3402 @@
+[
+  {
+    "ma_san_pham": 1,
+    "ten_san_pham": "Sữa tươi Vinamilk có đường 1L",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 2,
+    "ten_san_pham": "Sữa tươi Vinamilk không đường 1L",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 3,
+    "ten_san_pham": "Sữa tươi TH true MILK 1L",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 4,
+    "ten_san_pham": "Sữa tươi Dutch Lady 180ml",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 5,
+    "ten_san_pham": "Sữa đặc Ông Thọ 380g",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 6,
+    "ten_san_pham": "Sữa bột Dielac 400g",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 7,
+    "ten_san_pham": "Sữa đậu nành Fami 200ml",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 8,
+    "ten_san_pham": "Sữa cacao Milo 180ml",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 9,
+    "ten_san_pham": "Sữa chua Vinamilk có đường",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 10,
+    "ten_san_pham": "Sữa chua nha đam",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 11,
+    "ten_san_pham": "Sữa chua uống Yakult",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 12,
+    "ten_san_pham": "Sữa chua uống TH true YOGURT",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 13,
+    "ten_san_pham": "Phô mai Con Bò Cười",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 14,
+    "ten_san_pham": "Phô mai lát cheddar",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 15,
+    "ten_san_pham": "Bơ lạt Anchor 200g",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 16,
+    "ten_san_pham": "Sữa hạt óc chó 1L",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 17,
+    "ten_san_pham": "Sữa tươi organic 1L",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 18,
+    "ten_san_pham": "Sữa ít béo Devondale 1L",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 19,
+    "ten_san_pham": "Kem vani Merino 450ml",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 20,
+    "ten_san_pham": "Sữa bắp Nuti 180ml",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 21,
+    "ten_san_pham": "Nước suối Aquafina 500ml",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 22,
+    "ten_san_pham": "Nước khoáng La Vie 500ml",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 23,
+    "ten_san_pham": "Nước suối Dasani 1.5L",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 24,
+    "ten_san_pham": "Nước cam Twister 1L",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 25,
+    "ten_san_pham": "Nước táo Minute Maid 1L",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 26,
+    "ten_san_pham": "Trà xanh Không Độ 455ml",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 27,
+    "ten_san_pham": "Trà ô long Tea Plus",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 28,
+    "ten_san_pham": "Trà đào C2",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 29,
+    "ten_san_pham": "Nước tăng lực Red Bull",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 30,
+    "ten_san_pham": "Nước tăng lực Sting",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 31,
+    "ten_san_pham": "Coca-Cola lon 330ml",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 32,
+    "ten_san_pham": "Mirinda cam 330ml",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 33,
+    "ten_san_pham": "Sprite chanh 330ml",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 34,
+    "ten_san_pham": "7UP 330ml",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 35,
+    "ten_san_pham": "Cà phê sữa Birdy",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 36,
+    "ten_san_pham": "Cà phê đen Nescafe",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 37,
+    "ten_san_pham": "Cà phê hòa tan G7",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 38,
+    "ten_san_pham": "Trà túi lọc Atiso",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 39,
+    "ten_san_pham": "Nước dừa Vita Coco",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 40,
+    "ten_san_pham": "Nước yến Sanest",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 41,
+    "ten_san_pham": "Rau cải ngọt",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 42,
+    "ten_san_pham": "Cải thìa",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 43,
+    "ten_san_pham": "Rau muống",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 44,
+    "ten_san_pham": "Rau mồng tơi",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 45,
+    "ten_san_pham": "Xà lách xanh",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 46,
+    "ten_san_pham": "Bắp cải trắng",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 47,
+    "ten_san_pham": "Súp lơ xanh",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 48,
+    "ten_san_pham": "Cà rốt",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 49,
+    "ten_san_pham": "Khoai tây",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 50,
+    "ten_san_pham": "Cà chua",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 51,
+    "ten_san_pham": "Dưa leo",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 52,
+    "ten_san_pham": "Hành tây",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 53,
+    "ten_san_pham": "Hành tím",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 54,
+    "ten_san_pham": "Tỏi khô",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 55,
+    "ten_san_pham": "Ớt đỏ",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 56,
+    "ten_san_pham": "Bí đỏ",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 57,
+    "ten_san_pham": "Bí xanh",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 58,
+    "ten_san_pham": "Đậu que",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 59,
+    "ten_san_pham": "Nấm kim châm",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 60,
+    "ten_san_pham": "Ngô ngọt",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 61,
+    "ten_san_pham": "Táo đỏ Mỹ",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 62,
+    "ten_san_pham": "Táo xanh Mỹ",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 63,
+    "ten_san_pham": "Táo vàng",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 64,
+    "ten_san_pham": "Chuối già Nam Mỹ",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 65,
+    "ten_san_pham": "Chuối cau",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 66,
+    "ten_san_pham": "Cam sành",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 67,
+    "ten_san_pham": "Cam vàng Ai Cập",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 68,
+    "ten_san_pham": "Quýt đường",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 69,
+    "ten_san_pham": "Nho xanh không hạt",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 70,
+    "ten_san_pham": "Nho đỏ không hạt",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 71,
+    "ten_san_pham": "Dưa hấu ruột đỏ",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 72,
+    "ten_san_pham": "Dưa lưới",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 73,
+    "ten_san_pham": "Xoài cát Hòa Lộc",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 74,
+    "ten_san_pham": "Xoài keo",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 75,
+    "ten_san_pham": "Thanh long ruột đỏ",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 76,
+    "ten_san_pham": "Lê Hàn Quốc",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 77,
+    "ten_san_pham": "Kiwi xanh",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 78,
+    "ten_san_pham": "Dâu tây Đà Lạt",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 79,
+    "ten_san_pham": "Bơ sáp",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 80,
+    "ten_san_pham": "Ổi lê",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 81,
+    "ten_san_pham": "Thịt heo ba chỉ",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 82,
+    "ten_san_pham": "Thịt heo nạc vai",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 83,
+    "ten_san_pham": "Thịt heo thăn",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 84,
+    "ten_san_pham": "Sườn non heo",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 85,
+    "ten_san_pham": "Thịt bò thăn",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 86,
+    "ten_san_pham": "Thịt bò xay",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 87,
+    "ten_san_pham": "Ức gà phi lê",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 88,
+    "ten_san_pham": "Đùi gà góc tư",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 89,
+    "ten_san_pham": "Cánh gà",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 90,
+    "ten_san_pham": "Trứng gà hộp 10 quả",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 91,
+    "ten_san_pham": "Trứng vịt hộp 10 quả",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 92,
+    "ten_san_pham": "Cá basa phi lê",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 93,
+    "ten_san_pham": "Cá hồi phi lê",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 94,
+    "ten_san_pham": "Cá thu cắt lát",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 95,
+    "ten_san_pham": "Tôm thẻ tươi",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 96,
+    "ten_san_pham": "Mực ống tươi",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 97,
+    "ten_san_pham": "Xúc xích tiệt trùng",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 98,
+    "ten_san_pham": "Giò lụa 500g",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 99,
+    "ten_san_pham": "Thịt viên đông lạnh",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 100,
+    "ten_san_pham": "Cá viên đông lạnh",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 101,
+    "ten_san_pham": "Bánh quy bơ Danisa",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 102,
+    "ten_san_pham": "Bánh quy sữa Cosy",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 103,
+    "ten_san_pham": "Bánh cracker AFC",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 104,
+    "ten_san_pham": "Bánh gạo One One",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 105,
+    "ten_san_pham": "Bánh xốp KitKat",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 106,
+    "ten_san_pham": "Bánh bông lan Solite",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 107,
+    "ten_san_pham": "Bánh mì sandwich",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 108,
+    "ten_san_pham": "Bánh mì ngọt nhân sữa",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 109,
+    "ten_san_pham": "Kẹo bạc hà Mentos",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 110,
+    "ten_san_pham": "Kẹo dẻo Haribo",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 111,
+    "ten_san_pham": "Kẹo chocolate M&M",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 112,
+    "ten_san_pham": "Kẹo cao su Doublemint",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 113,
+    "ten_san_pham": "Snack khoai tây Lay's",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 114,
+    "ten_san_pham": "Snack bắp Oishi",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 115,
+    "ten_san_pham": "Bắp rang bơ",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 116,
+    "ten_san_pham": "Socola đen Lindt 70%",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 117,
+    "ten_san_pham": "Bánh quy yến mạch",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 118,
+    "ten_san_pham": "Bánh trung thu đậu xanh",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 119,
+    "ten_san_pham": "Thạch trái cây",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 120,
+    "ten_san_pham": "Kẹo dừa Bến Tre",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 121,
+    "ten_san_pham": "Nước mắm Chinsu 500ml",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 122,
+    "ten_san_pham": "Nước mắm Nam Ngư 500ml",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 123,
+    "ten_san_pham": "Nước tương Maggi 500ml",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 124,
+    "ten_san_pham": "Dầu ăn Simply 1L",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 125,
+    "ten_san_pham": "Dầu đậu nành Tường An 1L",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 126,
+    "ten_san_pham": "Đường tinh luyện Biên Hòa",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 127,
+    "ten_san_pham": "Đường phèn 500g",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 128,
+    "ten_san_pham": "Muối i-ốt 500g",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 129,
+    "ten_san_pham": "Hạt nêm Knorr 400g",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 130,
+    "ten_san_pham": "Bột ngọt Ajinomoto 400g",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 131,
+    "ten_san_pham": "Tiêu đen xay 100g",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 132,
+    "ten_san_pham": "Ớt bột 100g",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 133,
+    "ten_san_pham": "Tương ớt Chinsu",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 134,
+    "ten_san_pham": "Tương cà",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 135,
+    "ten_san_pham": "Giấm gạo 500ml",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 136,
+    "ten_san_pham": "Bột cà ri Ấn Độ",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 137,
+    "ten_san_pham": "Ngũ vị hương",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 138,
+    "ten_san_pham": "Sốt mayonnaise Kewpie",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 139,
+    "ten_san_pham": "Dầu hào Maggi",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 140,
+    "ten_san_pham": "Bột chiên giòn Tài Ký",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 141,
+    "ten_san_pham": "Gạo thơm Jasmine 5kg",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 142,
+    "ten_san_pham": "Gạo ST25 5kg",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 143,
+    "ten_san_pham": "Gạo lứt đỏ 1kg",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 144,
+    "ten_san_pham": "Mì Hảo Hảo tôm chua cay",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 145,
+    "ten_san_pham": "Mì Omachi bò hầm",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 146,
+    "ten_san_pham": "Mì ly Modern",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 147,
+    "ten_san_pham": "Miến dong 500g",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 148,
+    "ten_san_pham": "Bún khô Safoco",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 149,
+    "ten_san_pham": "Phở khô 500g",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 150,
+    "ten_san_pham": "Mì spaghetti Barilla",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 151,
+    "ten_san_pham": "Yến mạch Quaker 500g",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 152,
+    "ten_san_pham": "Ngũ cốc Kellogg's",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 153,
+    "ten_san_pham": "Đậu xanh cà vỏ 500g",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 154,
+    "ten_san_pham": "Đậu đỏ 500g",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 155,
+    "ten_san_pham": "Đậu đen xanh lòng",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 156,
+    "ten_san_pham": "Nấm hương khô",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 157,
+    "ten_san_pham": "Mộc nhĩ khô",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 158,
+    "ten_san_pham": "Rong biển nấu canh",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 159,
+    "ten_san_pham": "Bột mì đa dụng 1kg",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 160,
+    "ten_san_pham": "Bột năng 400g",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 161,
+    "ten_san_pham": "Nước giặt OMO 2.7kg",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 162,
+    "ten_san_pham": "Nước giặt Comfort 2.4kg",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 163,
+    "ten_san_pham": "Bột giặt Ariel 3kg",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 164,
+    "ten_san_pham": "Nước xả vải Downy 1.8L",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 165,
+    "ten_san_pham": "Nước rửa chén Sunlight",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 166,
+    "ten_san_pham": "Nước lau sàn Gift",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 167,
+    "ten_san_pham": "Nước tẩy toilet Vim",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 168,
+    "ten_san_pham": "Nước lau kính Gift",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 169,
+    "ten_san_pham": "Dầu gội Dove",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 170,
+    "ten_san_pham": "Dầu xả Sunsilk",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 171,
+    "ten_san_pham": "Sữa tắm Lifebuoy",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 172,
+    "ten_san_pham": "Xà phòng Lifebuoy",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 173,
+    "ten_san_pham": "Kem đánh răng P/S",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 174,
+    "ten_san_pham": "Bàn chải Colgate",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 175,
+    "ten_san_pham": "Nước súc miệng Listerine",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 176,
+    "ten_san_pham": "Khăn giấy Pulppy",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 177,
+    "ten_san_pham": "Giấy vệ sinh Bless You",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 178,
+    "ten_san_pham": "Nước rửa tay Lifebuoy",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 179,
+    "ten_san_pham": "Lăn khử mùi Rexona",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 180,
+    "ten_san_pham": "Kem chống nắng Sunplay",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 181,
+    "ten_san_pham": "Túi rác tự hủy cỡ nhỏ",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 182,
+    "ten_san_pham": "Túi rác tự hủy cỡ lớn",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 183,
+    "ten_san_pham": "Màng bọc thực phẩm",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 184,
+    "ten_san_pham": "Giấy bạc bọc thực phẩm",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 185,
+    "ten_san_pham": "Hộp đựng thực phẩm bộ 3",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 186,
+    "ten_san_pham": "Ly nhựa dùng một lần",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 187,
+    "ten_san_pham": "Ống hút giấy",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 188,
+    "ten_san_pham": "Khăn lau đa năng",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 189,
+    "ten_san_pham": "Miếng rửa chén",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 190,
+    "ten_san_pham": "Găng tay cao su",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 191,
+    "ten_san_pham": "Chổi quét nhà",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 192,
+    "ten_san_pham": "Cây lau nhà tự vắt",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 193,
+    "ten_san_pham": "Thau nhựa 30cm",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 194,
+    "ten_san_pham": "Rổ nhựa đa năng",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 195,
+    "ten_san_pham": "Móc áo nhựa 10 cái",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 196,
+    "ten_san_pham": "Pin AA Panasonic",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 197,
+    "ten_san_pham": "Bóng đèn LED Rạng Đông 9W",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 198,
+    "ten_san_pham": "Bật lửa gas",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 199,
+    "ten_san_pham": "Khẩu trang y tế 50 cái",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  },
+  {
+    "ma_san_pham": 200,
+    "ten_san_pham": "Tăm tre hộp 500 que",
+    "cau_hoi": [
+      "Sản phẩm này là gì?",
+      "Sản phẩm này thuộc danh mục nào?",
+      "Sản phẩm này có đặc điểm gì?",
+      "Sản phẩm này có thành phần gì?",
+      "Sản phẩm này dùng như thế nào?",
+      "Sản phẩm này bảo quản ra sao?",
+      "Sản phẩm này giá bao nhiêu?",
+      "Có sản phẩm nào tương tự không?",
+      "Sản phẩm này khác gì sản phẩm cùng danh mục?",
+      "Sản phẩm này có phù hợp với nhu cầu của tôi không?"
+    ],
+    "quy_tac_tra_loi": "Chỉ trả lời từ các trường dữ liệu đã xác minh; trường thiếu phải nói rõ chưa có dữ liệu."
+  }
+]

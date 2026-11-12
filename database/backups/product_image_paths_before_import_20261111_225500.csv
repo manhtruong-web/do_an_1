@@ -1,0 +1,201 @@
+﻿MaSP,TenSP,Anh_truoc_khi_import
+1,Sữa tươi Vinamilk có đường 1L,/api/products/1/image
+2,Sữa tươi Vinamilk không đường 1L,/api/products/2/image
+3,Sữa tươi TH true MILK 1L,/api/products/3/image
+4,Sữa tươi Dutch Lady 180ml,/api/products/4/image
+5,Sữa đặc Ông Thọ 380g,/api/products/5/image
+6,Sữa bột Dielac 400g,/api/products/6/image
+7,Sữa đậu nành Fami 200ml,/api/products/7/image
+8,Sữa cacao Milo 180ml,/api/products/8/image
+9,Sữa chua Vinamilk có đường,/api/products/9/image
+10,Sữa chua nha đam,/api/products/10/image
+11,Sữa chua uống Yakult,/api/products/11/image
+12,Sữa chua uống TH true YOGURT,/api/products/12/image
+13,Phô mai Con Bò Cười,/api/products/13/image
+14,Phô mai lát cheddar,/api/products/14/image
+15,Bơ lạt Anchor 200g,/api/products/15/image
+16,Sữa hạt óc chó 1L,/api/products/16/image
+17,Sữa tươi organic 1L,/api/products/17/image
+18,Sữa ít béo Devondale 1L,/api/products/18/image
+19,Kem vani Merino 450ml,/api/products/19/image
+20,Sữa bắp Nuti 180ml,/api/products/20/image
+21,Nước suối Aquafina 500ml,/api/products/21/image
+22,Nước khoáng La Vie 500ml,/api/products/22/image
+23,Nước suối Dasani 1.5L,/api/products/23/image
+24,Nước cam Twister 1L,/api/products/24/image
+25,Nước táo Minute Maid 1L,/api/products/25/image
+26,Trà xanh Không Độ 455ml,/api/products/26/image
+27,Trà ô long Tea Plus,/api/products/27/image
+28,Trà đào C2,/api/products/28/image
+29,Nước tăng lực Red Bull,/api/products/29/image
+30,Nước tăng lực Sting,/api/products/30/image
+31,Coca-Cola lon 330ml,/api/products/31/image
+32,Mirinda cam 330ml,/api/products/32/image
+33,Sprite chanh 330ml,/api/products/33/image
+34,7UP 330ml,/api/products/34/image
+35,Cà phê sữa Birdy,/api/products/35/image
+36,Cà phê đen Nescafe,/api/products/36/image
+37,Cà phê hòa tan G7,/api/products/37/image
+38,Trà túi lọc Atiso,/api/products/38/image
+39,Nước dừa Vita Coco,/api/products/39/image
+40,Nước yến Sanest,/api/products/40/image
+41,Rau cải ngọt,/api/products/41/image
+42,Cải thìa,/api/products/42/image
+43,Rau muống,/api/products/43/image
+44,Rau mồng tơi,/api/products/44/image
+45,Xà lách xanh,/api/products/45/image
+46,Bắp cải trắng,/api/products/46/image
+47,Súp lơ xanh,/api/products/47/image
+48,Cà rốt,/api/products/48/image
+49,Khoai tây,/api/products/49/image
+50,Cà chua,/api/products/50/image
+51,Dưa leo,/api/products/51/image
+52,Hành tây,/api/products/52/image
+53,Hành tím,/api/products/53/image
+54,Tỏi khô,/api/products/54/image
+55,Ớt đỏ,/api/products/55/image
+56,Bí đỏ,/api/products/56/image
+57,Bí xanh,/api/products/57/image
+58,Đậu que,/api/products/58/image
+59,Nấm kim châm,/api/products/59/image
+60,Ngô ngọt,/api/products/60/image
+61,Táo đỏ Mỹ,/api/products/61/image
+62,Táo xanh Mỹ,/api/products/62/image
+63,Táo vàng,/api/products/63/image
+64,Chuối già Nam Mỹ,/api/products/64/image
+65,Chuối cau,/api/products/65/image
+66,Cam sành,/api/products/66/image
+67,Cam vàng Ai Cập,/api/products/67/image
+68,Quýt đường,/api/products/68/image
+69,Nho xanh không hạt,/api/products/69/image
+70,Nho đỏ không hạt,/api/products/70/image
+71,Dưa hấu ruột đỏ,/api/products/71/image
+72,Dưa lưới,/api/products/72/image
+73,Xoài cát Hòa Lộc,/api/products/73/image
+74,Xoài keo,/api/products/74/image
+75,Thanh long ruột đỏ,/api/products/75/image
+76,Lê Hàn Quốc,/api/products/76/image
+77,Kiwi xanh,/api/products/77/image
+78,Dâu tây Đà Lạt,/api/products/78/image
+79,Bơ sáp,/api/products/79/image
+80,Ổi lê,/api/products/80/image
+81,Thịt heo ba chỉ,/api/products/81/image
+82,Thịt heo nạc vai,/api/products/82/image
+83,Thịt heo thăn,/api/products/83/image
+84,Sườn non heo,/api/products/84/image
+85,Thịt bò thăn,/api/products/85/image
+86,Thịt bò xay,/api/products/86/image
+87,Ức gà phi lê,/api/products/87/image
+88,Đùi gà góc tư,/api/products/88/image
+89,Cánh gà,/api/products/89/image
+90,Trứng gà hộp 10 quả,/api/products/90/image
+91,Trứng vịt hộp 10 quả,/api/products/91/image
+92,Cá basa phi lê,/api/products/92/image
+93,Cá hồi phi lê,/api/products/93/image
+94,Cá thu cắt lát,/api/products/94/image
+95,Tôm thẻ tươi,/api/products/95/image
+96,Mực ống tươi,/api/products/96/image
+97,Xúc xích tiệt trùng,/api/products/97/image
+98,Giò lụa 500g,/api/products/98/image
+99,Thịt viên đông lạnh,/api/products/99/image
+100,Cá viên đông lạnh,/api/products/100/image
+101,Bánh quy bơ Danisa,/api/products/101/image
+102,Bánh quy sữa Cosy,/api/products/102/image
+103,Bánh cracker AFC,/api/products/103/image
+104,Bánh gạo One One,/api/products/104/image
+105,Bánh xốp KitKat,/api/products/105/image
+106,Bánh bông lan Solite,/api/products/106/image
+107,Bánh mì sandwich,/api/products/107/image
+108,Bánh mì ngọt nhân sữa,/api/products/108/image
+109,Kẹo bạc hà Mentos,/api/products/109/image
+110,Kẹo dẻo Haribo,/api/products/110/image
+111,Kẹo chocolate M&M,/api/products/111/image
+112,Kẹo cao su Doublemint,/api/products/112/image
+113,Snack khoai tây Lay's,/api/products/113/image
+114,Snack bắp Oishi,/api/products/114/image
+115,Bắp rang bơ,/api/products/115/image
+116,Socola đen Lindt 70%,/api/products/116/image
+117,Bánh quy yến mạch,/api/products/117/image
+118,Bánh trung thu đậu xanh,/api/products/118/image
+119,Thạch trái cây,/api/products/119/image
+120,Kẹo dừa Bến Tre,/api/products/120/image
+121,Nước mắm Chinsu 500ml,/api/products/121/image
+122,Nước mắm Nam Ngư 500ml,/api/products/122/image
+123,Nước tương Maggi 500ml,/api/products/123/image
+124,Dầu ăn Simply 1L,/api/products/124/image
+125,Dầu đậu nành Tường An 1L,/api/products/125/image
+126,Đường tinh luyện Biên Hòa,/api/products/126/image
+127,Đường phèn 500g,/api/products/127/image
+128,Muối i-ốt 500g,/api/products/128/image
+129,Hạt nêm Knorr 400g,/api/products/129/image
+130,Bột ngọt Ajinomoto 400g,/api/products/130/image
+131,Tiêu đen xay 100g,/api/products/131/image
+132,Ớt bột 100g,/api/products/132/image
+133,Tương ớt Chinsu,/api/products/133/image
+134,Tương cà,/api/products/134/image
+135,Giấm gạo 500ml,/api/products/135/image
+136,Bột cà ri Ấn Độ,/api/products/136/image
+137,Ngũ vị hương,/api/products/137/image
+138,Sốt mayonnaise Kewpie,/api/products/138/image
+139,Dầu hào Maggi,/api/products/139/image
+140,Bột chiên giòn Tài Ký,/api/products/140/image
+141,Gạo thơm Jasmine 5kg,/api/products/141/image
+142,Gạo ST25 5kg,/api/products/142/image
+143,Gạo lứt đỏ 1kg,/api/products/143/image
+144,Mì Hảo Hảo tôm chua cay,/api/products/144/image
+145,Mì Omachi bò hầm,/api/products/145/image
+146,Mì ly Modern,/api/products/146/image
+147,Miến dong 500g,/api/products/147/image
+148,Bún khô Safoco,/api/products/148/image
+149,Phở khô 500g,/api/products/149/image
+150,Mì spaghetti Barilla,/api/products/150/image
+151,Yến mạch Quaker 500g,/api/products/151/image
+152,Ngũ cốc Kellogg's,/api/products/152/image
+153,Đậu xanh cà vỏ 500g,/api/products/153/image
+154,Đậu đỏ 500g,/api/products/154/image
+155,Đậu đen xanh lòng,/api/products/155/image
+156,Nấm hương khô,/api/products/156/image
+157,Mộc nhĩ khô,/api/products/157/image
+158,Rong biển nấu canh,/api/products/158/image
+159,Bột mì đa dụng 1kg,/api/products/159/image
+160,Bột năng 400g,/api/products/160/image
+161,Nước giặt OMO 2.7kg,/api/products/161/image
+162,Nước giặt Comfort 2.4kg,/api/products/162/image
+163,Bột giặt Ariel 3kg,/api/products/163/image
+164,Nước xả vải Downy 1.8L,/api/products/164/image
+165,Nước rửa chén Sunlight,/api/products/165/image
+166,Nước lau sàn Gift,/api/products/166/image
+167,Nước tẩy toilet Vim,/api/products/167/image
+168,Nước lau kính Gift,/api/products/168/image
+169,Dầu gội Dove,/api/products/169/image
+170,Dầu xả Sunsilk,/api/products/170/image
+171,Sữa tắm Lifebuoy,/api/products/171/image
+172,Xà phòng Lifebuoy,/api/products/172/image
+173,Kem đánh răng P/S,/api/products/173/image
+174,Bàn chải Colgate,/api/products/174/image
+175,Nước súc miệng Listerine,/api/products/175/image
+176,Khăn giấy Pulppy,/api/products/176/image
+177,Giấy vệ sinh Bless You,/api/products/177/image
+178,Nước rửa tay Lifebuoy,/api/products/178/image
+179,Lăn khử mùi Rexona,/api/products/179/image
+180,Kem chống nắng Sunplay,/api/products/180/image
+181,Túi rác tự hủy cỡ nhỏ,/api/products/181/image
+182,Túi rác tự hủy cỡ lớn,/api/products/182/image
+183,Màng bọc thực phẩm,/api/products/183/image
+184,Giấy bạc bọc thực phẩm,/api/products/184/image
+185,Hộp đựng thực phẩm bộ 3,/api/products/185/image
+186,Ly nhựa dùng một lần,/api/products/186/image
+187,Ống hút giấy,/api/products/187/image
+188,Khăn lau đa năng,/api/products/188/image
+189,Miếng rửa chén,/api/products/189/image
+190,Găng tay cao su,/api/products/190/image
+191,Chổi quét nhà,/api/products/191/image
+192,Cây lau nhà tự vắt,/api/products/192/image
+193,Thau nhựa 30cm,/api/products/193/image
+194,Rổ nhựa đa năng,/api/products/194/image
+195,Móc áo nhựa 10 cái,/api/products/195/image
+196,Pin AA Panasonic,/api/products/196/image
+197,Bóng đèn LED Rạng Đông 9W,/api/products/197/image
+198,Bật lửa gas,/api/products/198/image
+199,Khẩu trang y tế 50 cái,/api/products/199/image
+200,Tăm tre hộp 500 que,/api/products/200/image

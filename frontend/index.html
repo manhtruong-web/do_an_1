@@ -1,0 +1,246 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#10231f">
+  <title>SmartMart AI | Trợ lý mua sắm</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="#top" aria-label="SmartMart AI trang chủ">
+      <span class="brand-mark">S</span>
+      <span><strong>SmartMart</strong><small>AI shopping desk</small></span>
+    </a>
+    <nav class="topnav" aria-label="Điều hướng chính">
+      <a href="#discover">Khám phá</a>
+      <a href="#assistant">Trợ lý AI</a>
+    </nav>
+    <form id="searchForm" class="search-form" role="search">
+      <span class="search-icon" aria-hidden="true">⌕</span>
+      <input id="keyword" autocomplete="off" placeholder="Tìm sản phẩm..." aria-label="Từ khóa sản phẩm">
+      <button id="searchButton" type="submit">Tìm <span aria-hidden="true">↗</span></button>
+    </form>
+    <button id="cartButton" class="cart-trigger" type="button" aria-label="Mở giỏ hàng, 0 sản phẩm">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+        <circle cx="9" cy="21" r="1"/><circle cx="20" cy="21" r="1"/><path d="M1 1h4l2.68 13.39a2 2 0 0 0 2 1.61h9.72a2 2 0 0 0 2-1.61L23 6H6"/>
+      </svg>
+      <span class="cart-trigger-label">Giỏ hàng</span>
+      <span id="cartCount" class="cart-count">0</span>
+    </button>
+    <div class="service-status"><span id="apiDot" class="status-dot"></span><span id="apiStatus">Đang kết nối...</span></div>
+  </header>
+
+  <main id="top" class="app-shell">
+    <section id="discover" class="intro-row">
+      <div>
+        <p class="kicker">SMARTMART / PRODUCT DESK</p>
+        <h1>Tìm thứ bạn cần,<br><em>theo cách tự nhiên.</em></h1>
+        <p class="intro-copy">Tìm theo tên, danh mục, ngân sách hoặc để AI giúp bạn chọn lựa từ dữ liệu siêu thị thực tế.</p>
+      </div>
+      <div class="inventory-note"><span class="note-number">01</span><span>Dữ liệu sản phẩm<br><b>được truy xuất trực tiếp</b></span></div>
+    </section>
+
+    <button id="filterBackdrop" class="filter-backdrop" type="button" aria-label="Đóng bộ lọc" hidden></button>
+    <div class="workspace-grid">
+      <aside id="filterSidebar" class="filter-sidebar" aria-label="Bộ lọc sản phẩm">
+        <div class="filter-sidebar-heading">
+          <div>
+            <p class="section-label">TÙY CHỌN</p>
+            <h2>Bộ lọc</h2>
+          </div>
+          <button id="collapseFilters" class="filter-icon-button" type="button" aria-label="Thu gọn bộ lọc" aria-expanded="true">−</button>
+          <button id="closeFilters" class="filter-icon-button close-filter-button" type="button" aria-label="Đóng bộ lọc">×</button>
+        </div>
+        <div id="filterContent" class="filter-content">
+          <details class="filter-group" open>
+            <summary><span class="filter-group-title"><span class="filter-group-icon" aria-hidden="true">▦</span>Danh mục</span></summary>
+            <div id="categoryList" class="filter-option-list"></div>
+            <button id="categoryViewMore" class="show-more" type="button" hidden>Xem thêm</button>
+          </details>
+
+          <details class="filter-group" open>
+            <summary><span class="filter-group-title"><span class="filter-group-icon" aria-hidden="true">◇</span>Thương hiệu</span></summary>
+            <label class="brand-search">
+              <span class="sr-only">Tìm thương hiệu</span>
+              <input id="brandSearch" type="search" placeholder="Tìm thương hiệu...">
+            </label>
+            <div id="brandList" class="filter-option-list"></div>
+            <button id="brandViewMore" class="show-more" type="button" hidden>Xem thêm</button>
+          </details>
+
+          <details class="filter-group" open>
+            <summary><span class="filter-group-title"><span class="filter-group-icon" aria-hidden="true">₫</span>Khoảng giá</span></summary>
+            <div class="price-range-labels"><span>Giá từ</span><span id="priceRangeSummary">0 – 0 đồng</span></div>
+            <div class="dual-range" aria-label="Chọn khoảng giá">
+              <input id="minPriceRange" type="range" min="0" max="500000" step="1000" value="0" aria-label="Giá thấp nhất">
+              <input id="maxPriceRange" type="range" min="0" max="500000" step="1000" value="500000" aria-label="Giá cao nhất">
+            </div>
+            <div class="price-inputs">
+              <label><span class="sr-only">Giá tối thiểu</span><input id="minPriceFilter" type="number" min="0" step="1000" inputmode="numeric" placeholder="Tối thiểu"></label>
+              <span aria-hidden="true">–</span>
+              <label><span class="sr-only">Giá tối đa</span><input id="maxPriceFilter" type="number" min="0" step="1000" inputmode="numeric" placeholder="Tối đa"></label>
+            </div>
+            <div class="quick-prices" aria-label="Khoảng giá nhanh">
+              <button type="button" data-min-price="0" data-max-price="50000">Dưới 50K</button>
+              <button type="button" data-min-price="50000" data-max-price="100000">50K–100K</button>
+              <button type="button" data-min-price="100000" data-max-price="200000">100K–200K</button>
+              <button type="button" data-min-price="200000" data-max-price="">Trên 200K</button>
+            </div>
+          </details>
+
+          <details class="filter-group" open>
+            <summary><span class="filter-group-title"><span class="filter-group-icon" aria-hidden="true">✓</span>Tình trạng sản phẩm</span></summary>
+            <div class="filter-option-list">
+              <label class="filter-option"><input id="inStockOnly" type="checkbox"><span>Còn hàng</span></label>
+              <label class="filter-option"><input id="outOfStockOnly" type="checkbox"><span>Hết hàng</span></label>
+            </div>
+          </details>
+
+          <div class="filter-actions">
+            <button id="applyFilters" class="apply-filters" type="button">Áp dụng bộ lọc</button>
+            <button id="clearFilters" class="clear-filters" type="button">Đặt lại</button>
+          </div>
+        </div>
+      </aside>
+
+      <section id="products" class="results-panel" aria-labelledby="resultsTitle">
+        <div class="panel-toolbar">
+          <div class="panel-heading">
+            <div><p class="section-label">LIVE INVENTORY</p><h2 id="resultsTitle">Sản phẩm phù hợp</h2></div>
+            <div class="product-count"><strong id="totalProducts">Đang tải...</strong><span id="resultCount">Đang tải kết quả...</span></div>
+          </div>
+          <div class="toolbar-controls">
+            <button id="toggleFilters" class="toolbar-button" type="button" aria-controls="filterSidebar" aria-expanded="true">
+              <span aria-hidden="true">☷</span> Bộ lọc
+            </button>
+            <label class="sort-control"><span>Sắp xếp</span>
+              <select id="sortBy">
+                <option value="relevance">Phù hợp nhất</option>
+                <option value="price_asc">Giá tăng dần</option>
+                <option value="price_desc">Giá giảm dần</option>
+                <option value="name_asc">Tên A–Z</option>
+                <option value="name_desc">Tên Z–A</option>
+              </select>
+            </label>
+            <div class="view-switch" role="group" aria-label="Kiểu hiển thị sản phẩm">
+              <button class="view-button active" type="button" data-view="grid" aria-label="Dạng lưới" aria-pressed="true">▦</button>
+              <button class="view-button" type="button" data-view="list" aria-label="Dạng danh sách" aria-pressed="false">☰</button>
+            </div>
+          </div>
+        </div>
+        <div id="activeFilterChips" class="active-filter-chips" aria-label="Bộ lọc đang áp dụng"></div>
+        <div id="resultsStatus" class="results-status" role="status" aria-live="polite" hidden></div>
+        <div id="productList" class="product-grid" aria-live="polite"></div>
+        <button id="loadMoreProducts" class="load-more" type="button" hidden>Tải thêm sản phẩm</button>
+      </section>
+
+      <aside class="side-column">
+        <section id="assistant" class="assistant-panel" aria-labelledby="assistantTitle" hidden>
+          <div class="assistant-heading">
+            <div class="assistant-avatar" aria-hidden="true">✦</div>
+            <div class="assistant-identity">
+              <p class="section-label">SMARTMART AI</p>
+              <h2 id="assistantTitle">SmartMart AI</h2>
+              <span class="assistant-online"><i id="chatStatusDot" class="assistant-online-dot"></i><span id="chatStatus">Đang kết nối</span></span>
+            </div>
+            <div class="assistant-header-actions">
+              <button id="clearChat" class="assistant-header-button" type="button" title="Tạo cuộc trò chuyện mới" aria-label="Tạo cuộc trò chuyện mới">↻</button>
+              <button id="minimizeChat" class="assistant-header-button" type="button" title="Thu nhỏ trợ lý" aria-label="Thu nhỏ trợ lý">−</button>
+              <button id="closeChat" class="assistant-header-button close-assistant" type="button" title="Đóng chatbot" aria-label="Đóng chatbot">×</button>
+            </div>
+          </div>
+          <div id="chatWelcome" class="chat-welcome">
+            <div class="welcome-ai-icon" aria-hidden="true">✦</div>
+            <h3>Xin chào! Mình là SmartMart AI 👋</h3>
+            <p>Mình sẵn sàng giúp bạn tìm sản phẩm phù hợp, tư vấn giá và kiểm tra tình trạng tồn kho.</p>
+            <div class="welcome-prompts" aria-label="Gợi ý câu hỏi">
+              <button type="button" data-question="Tìm sản phẩm sữa Vinamilk">Tìm sản phẩm theo tên</button>
+              <button type="button" data-question="Tôi có 100.000 đồng, nên mua gì?">Tư vấn theo ngân sách</button>
+              <button type="button" data-question="Sản phẩm nào đang còn hàng?">Kiểm tra hàng trong kho</button>
+              <button type="button" data-question="So sánh sữa Vinamilk và sữa TH True Milk">So sánh sản phẩm</button>
+              <button type="button" data-question="Tìm sản phẩm trong danh mục bánh kẹo">Tìm theo danh mục</button>
+              <button type="button" data-question="Gợi ý sản phẩm phù hợp cho bữa sáng">Gợi ý theo nhu cầu</button>
+            </div>
+          </div>
+          <div id="clearChatConfirmation" class="chat-clear-confirmation" hidden>
+            <p>Bắt đầu cuộc trò chuyện mới và xóa lịch sử hiện tại?</p>
+            <div>
+              <button id="cancelClearChat" type="button">Hủy</button>
+              <button id="confirmClearChat" type="button">Tạo mới</button>
+            </div>
+          </div>
+          <div id="chatMessages" class="chat-messages" aria-label="Tin nhắn hội thoại" aria-live="polite" hidden></div>
+          <!-- Preview ảnh khi chọn từ chat -->
+          <div id="chatImagePreview" class="chat-image-preview" aria-live="polite" hidden>
+            <img id="chatPreviewImg" alt="Ảnh đã chọn" class="chat-preview-img">
+            <button id="removeChatImage" type="button" class="remove-image-btn" title="Xóa ảnh" aria-label="Xóa ảnh đã chọn">×</button>
+          </div>
+          <form id="chatForm" class="chat-form">
+            <!-- Nút tải ảnh lên -->
+            <label id="chatImageBtn" class="chat-image-label" title="Tải ảnh để tìm sản phẩm tương tự" aria-label="Tải ảnh lên">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <rect x="3" y="3" width="18" height="18" rx="2" ry="2"/>
+                <circle cx="8.5" cy="8.5" r="1.5"/>
+                <polyline points="21,15 16,10 5,21"/>
+              </svg>
+              <input id="chatImageFile" type="file" accept="image/jpeg,image/png,image/webp" aria-hidden="true">
+            </label>
+            <textarea id="question" rows="1" placeholder="Hỏi SmartMart AI hoặc tải ảnh..." autocomplete="off" aria-label="Câu hỏi cho trợ lý"></textarea>
+            <button id="sendButton" type="submit" aria-label="Gửi câu hỏi">↑</button>
+          </form>
+        </section>
+
+      </aside>
+    </div>
+  </main>
+
+  <button id="chatToggle" class="chat-bubble" type="button" aria-label="Mở trợ lý SmartMart AI" aria-expanded="false">
+    <span class="bubble-spark">✦</span><span class="bubble-label">Hỏi SmartMart AI</span><span class="bubble-pulse"></span>
+  </button>
+  <div id="chatInvitationWrap" class="chat-invitation-wrap" hidden>
+    <button id="chatInvitation" class="chat-invitation" type="button" aria-label="Mở trợ lý SmartMart AI">
+      <span class="chat-invitation-mark" aria-hidden="true">✦</span>
+      <span id="chatInvitationText"></span>
+    </button>
+    <button id="dismissChatInvitation" class="dismiss-chat-invitation" type="button" aria-label="Đóng lời mời trò chuyện">×</button>
+  </div>
+
+  <dialog id="productDialog" class="product-dialog">
+    <button id="closeDialog" class="dialog-close" type="button" aria-label="Đóng">×</button>
+    <div id="dialogContent"></div>
+  </dialog>
+  <dialog id="cartDialog" class="cart-dialog" aria-labelledby="cartDialogTitle">
+    <div class="cart-dialog-heading">
+      <div>
+        <p class="section-label">SMARTMART / CART</p>
+        <h2 id="cartDialogTitle">Giỏ hàng <span id="cartItemCount"></span></h2>
+      </div>
+      <button id="closeCart" class="dialog-close" type="button" aria-label="Đóng giỏ hàng">×</button>
+    </div>
+    <button id="clearCart" class="clear-cart-button" type="button">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+        <path d="M3 6h18M8 6V4h8v2m3 0-1 14H6L5 6m4 4v6m6-6v6"/>
+      </svg>
+      Xóa toàn bộ giỏ hàng
+    </button>
+    <div id="clearCartConfirmation" class="clear-cart-confirmation" hidden>
+      <p>Bạn có chắc chắn muốn xóa toàn bộ sản phẩm trong giỏ hàng không?</p>
+      <div>
+        <button id="cancelClearCart" class="cancel-clear-cart" type="button">Hủy</button>
+        <button id="confirmClearCart" class="confirm-clear-cart" type="button">Xóa tất cả</button>
+      </div>
+    </div>
+    <div id="cartItems" class="cart-items"></div>
+    <div class="cart-summary">
+      <span>Tổng tiền</span>
+      <strong id="cartSubtotal">0 đồng</strong>
+    </div>
+  </dialog>
+  <script src="app.js"></script>
+</body>
+</html>

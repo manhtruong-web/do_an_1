@@ -1,0 +1,15 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Dữ liệu lớn sinh ra khi chạy mô hình
+dataset/GroceryStoreDataset/
+models/*
+faiss_index/*
+!faiss_index/.gitkeep
+
+# Hệ điều hành và IDE
+.DS_Store
+.vscode/

@@ -1,0 +1,1 @@
+"""SmartMart AI backend package."""

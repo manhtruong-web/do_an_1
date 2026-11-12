@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Quản trị tìm kiếm hình ảnh | SmartMart AI</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main class="visual-admin">
+    <header class="visual-admin-header">
+      <a href="index.html" class="visual-admin-home">← SmartMart AI</a>
+      <div>
+        <p class="section-label">ENTERPRISE VISUAL SEARCH</p>
+        <h1>Quản trị tìm kiếm hình ảnh</h1>
+        <p>Theo dõi chỉ mục OpenCLIP và đồng bộ ảnh từ SQL Server. Không thay đổi dữ liệu sản phẩm.</p>
+      </div>
+    </header>
+
+    <section class="visual-admin-auth" aria-labelledby="visualAdminAuthTitle">
+      <div>
+        <h2 id="visualAdminAuthTitle">Xác thực quản trị</h2>
+        <p>Token chỉ được giữ trong trang hiện tại và không lưu vào LocalStorage.</p>
+      </div>
+      <form id="visualAdminAuthForm">
+        <label for="visualAdminToken">ADMIN_API_TOKEN</label>
+        <input id="visualAdminToken" type="password" autocomplete="current-password" required>
+        <button type="submit">Kết nối</button>
+        <button id="visualAdminDisconnect" type="button" class="secondary-button" hidden>Ngắt kết nối</button>
+      </form>
+      <p id="visualAdminNotice" class="visual-admin-notice" role="status" aria-live="polite"></p>
+    </section>
+
+    <section id="visualAdminDashboard" hidden>
+      <div class="visual-admin-toolbar">
+        <div>
+          <strong id="visualAdminJobStatus">Chưa tải trạng thái</strong>
+          <span id="visualAdminModel"></span>
+        </div>
+        <div class="visual-admin-actions">
+          <button id="visualAdminRefresh" type="button" class="secondary-button">Làm mới</button>
+          <button id="visualAdminSync" type="button">Quét toàn bộ sản phẩm</button>
+          <button id="visualAdminRetry" type="button" class="secondary-button">Xử lý lại ảnh lỗi</button>
+        </div>
+      </div>
+
+      <div class="visual-admin-metrics" aria-live="polite">
+        <article><span>Sản phẩm trong SQL Server</span><strong id="visualMetricProducts">—</strong></article>
+        <article><span>Sản phẩm có ảnh</span><strong id="visualMetricWithImages">—</strong></article>
+        <article><span>Ảnh đã lập chỉ mục</span><strong id="visualMetricIndexed">—</strong></article>
+        <article><span>Sản phẩm chưa đồng bộ</span><strong id="visualMetricPending">—</strong></article>
+        <article><span>Ảnh lỗi</span><strong id="visualMetricErrors">—</strong></article>
+        <article><span>Tỷ lệ đồng bộ</span><strong id="visualMetricSuccess">—</strong></article>
+        <article><span>Tìm kiếm trung bình</span><strong id="visualMetricLatency">—</strong></article>
+        <article><span>Lượt tìm / tỷ lệ có kết quả</span><strong id="visualMetricSearches">—</strong></article>
+      </div>
+
+      <section class="visual-admin-log">
+        <div class="visual-admin-log-heading">
+          <h2>Lỗi lập chỉ mục gần nhất</h2>
+          <span id="visualAdminVision"></span>
+        </div>
+        <div class="visual-admin-table-wrap">
+          <table>
+            <thead><tr><th>Mã SP</th><th>Đường dẫn ảnh</th><th>Lỗi</th><th>Thời điểm</th></tr></thead>
+            <tbody id="visualAdminErrors"><tr><td colspan="4">Chưa có dữ liệu.</td></tr></tbody>
+          </table>
+        </div>
+      </section>
+    </section>
+  </main>
+  <script src="visual-search-admin.js"></script>
+</body>
+</html>
